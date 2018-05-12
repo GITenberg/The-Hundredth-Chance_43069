@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3564
     wikipedia: http://en.wikipedia.org/wiki/Ethel_M._Dell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43069#The-Hundredth-Chance
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2013-06-30'
 gutenberg_type: Text
